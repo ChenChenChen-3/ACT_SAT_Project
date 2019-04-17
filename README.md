@@ -1,6 +1,6 @@
-1. Problem Statement:
-    SAT Test and ACT Test are the key for high school student approach college and career path which make the tests essential. College Board, the organization that create SAT Test, believed the test can help student better understand their ability and approach to the ideal major. In 2018, more than 2 million students in the class took the test. But the data could be temporarily.    
-    Therefore, the goal of this project is to know how to improve participation rate of SAT Test. Based on analysis, visualize data ,and do some research. We will be able to seek for the possible issue and find the solutions.    
+1. Problem Statement:<br>
+SAT Test and ACT Test are the keys for high school student approach college and career path which make the tests essential. College Board, the organization that creates SAT Test, believed the test can help the student better understand their ability and approach to the ideal major. In 2018, more than 2 million students in the class took the test. <br>
+Therefore, the goal of this project is to know how to improve the participation rate of the SAT Test. Based on the analysis, visualize data, and do some research. We will be able to seek for the possible issue and find the solutions.   
 
 
 2. Data Dictionary
@@ -11,30 +11,30 @@
 |reading_writing_sat17|float   |SAT 2017|Evidence-Based Reading and Writing Section Score of 2017 SAT Test for each state.|  
 |math_sat17           |float   |SAT 2017|Math Section Score of 2017 SAT Test for each state.|
 |total_sat17          |float   |SAT 2017|Total Score of 2017 SAT Test for each state.|
-|xxx_sat18            |---     |SAT 2018|Infomation of SAT Test hold in 2018 for each state.|
 |participation_act17  |float   |ACT 2017|The probability of participation rate of ACT Test Score for each state.|
 |english_act17        |float   |ACT 2017|English Section Score of 2017 ACT Test for each state.|
 |math_act17           |float   |ACT 2017|Math Section Score of 2017 ACT Test for each state.|
 |reading_act17        |float   |ACT 2017|Reading Section Score of 2017 ACT Test for each state.|
 |science_act17        |float   |ACT 2017|Science Section Score of 2017 ACT Test for each state.|
 |total_act17          |float   |ACT 2017|Total Score of 2017 ACT Test for each state.|
+|xxx_xxx18            |---     |SAT 2018|Infomation of Tests hold in 2018 for each state.|
 
-
-3. Executive Summary 
+3. Executive Summary <br>
 - Methodology
     Collecting the data is first to do. Secondly, clean the data by identify the missing data, remove the unnecessary line, correct the errors, and change the data types for forward merge and analyze. Third, visualize the data. Finally, make conclusion based on what I found.  
 - Issues encountered
     Missing data, incorrect data type, unnecessary columns/rows are the issues happened.  
 - Results
     Overcome the issues and find some possible problems and answers. 
-4. Final Conclusions & Recommendations (4-6 lines)
-**Conclusions**
-- SAT test has increase in the past year, the policy change since 2016 is working. It will be helpful to release benefit, working with high school for pretest project and test in student's own school.    
+    
+4. Final Conclusions & Recommendations<br>
+**Conclusions**<br>
+SAT test has increased in the past year, due to the policy change since 2016. It is helpful to improve the participation rate by continuously release benefit, working with high school for pretest project, and test in student's own school.     
 
-**Recommendations**
-- The SAT should sign contract with more states. The purpose are increase the participation rate and reduces the unmoral high score for those states that have participation rate lower than 5%. 
-- SAT test hold in the Saturday, but some of the student may need to do the part-time or others. It might be helpful to change the test day in school day.
-- Push college to accept both SAT and ACT and cooperate with high school country wild. Most student choose to take the test based on what college required, what the teacher recommend and what his/her classmate taking. 
+**Recommendations**<br>
+- The SAT should sign the contract with more states. The purpose increases the participation rate and reduces the abnormal high score for those states that have participation rate lower than 5%. 
+- SAT test holds on Saturday, but some of the students are busy on the weekend. It might be helpful to change the test day to the normal school day.
+- Push college to accept both SAT and ACT and cooperate with high school country wild. Most students choose to take the test based on what college required, what the teacher recommends and what his/her classmate taking. 
 
 5. Source Documentation
 
